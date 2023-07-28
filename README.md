@@ -19,7 +19,7 @@ Am a Front-end Developer.I'm passionate about building innovative code based dis
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NLornah&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NLornah&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
